@@ -32,49 +32,12 @@ Computer Science student at **VSB – Technical University of Ostrava**
 
 ---
 
-## Featured Projects
+## Currently Learning
 
-### VSB First Year
-
-Coursework from my first year.
-
-Subjects:
-
-* Algorithms 1
-* Functional Programming
-* Architecture of Computers and Parallel Systems
-* Object-Oriented Programming
-* Introduction to Programming
-
-Repository:
-https://github.com/K0blih/VSB-first-year
-
----
-
-### VSB Second Year
-
-Coursework from my second year.
-
-Subjects:
-
-* Algorithms 2
-* C++
-* C# 1 and 2
-* Database Systems
-* Scripting Languages
-* Mobile Applications
-* User Interfaces
-
-Repository:
-https://github.com/K0blih/VSB-second-year
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=K0blih\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K0blih\&layout=compact\&theme=tokyonight)
+* Advanced **C++**
+* **Backend architecture**
+* **Database systems**
+* **System design fundamentals**
 
 ---
 
