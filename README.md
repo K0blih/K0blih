@@ -38,9 +38,3 @@ Computer Science student at **VSB – Technical University of Ostrava**
 * **Backend architecture**
 * **Database systems**
 * **System design fundamentals**
-
----
-
-## Contact
-
-GitHub: https://github.com/K0blih
